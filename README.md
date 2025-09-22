@@ -1,3 +1,2 @@
 # pcc
-# 1
-# 2
+# page 19 or 57/554: strings
